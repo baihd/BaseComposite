@@ -1,0 +1,1380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="DefaultSpringMVC:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$USER_HOME$/workspace/project-sdk1-java/src/main/java/com/ay/custom/service/ksxt/FaBuService.java" description="List&lt;Map&lt;String, String&gt;&gt; selectPeiXunXinXiList(Ma..." line="20" />
+    <bookmark url="file://$USER_HOME$/workspace/project-sdk1-java/src/main/java/com/ay/custom/service/ksxt/ExamAdminService.java" description="List&lt;Map&lt;String,Object&gt;&gt; checkConfig();" line="15" />
+    <bookmark url="file://$USER_HOME$/workspace/project-sdk1-java/src/main/java/com/ay/custom/service/ksxt/ExamAdminService.java" description="Map checkPermission(String userType, String userId..." line="13" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d3255580-1358-48ef-95e5-31777bd08323" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/SelfSpringMvc/target/" />
+    <ignored path="$PROJECT_DIR$/SelfSpringMVC/target/" />
+    <ignored path="$PROJECT_DIR$/DefaultSpringMVC/target/" />
+    <ignored path="$PROJECT_DIR$/DefaultSpringBoot/target/" />
+    <ignored path="$PROJECT_DIR$/SelfSpringIOC/target/" />
+    <ignored path="$PROJECT_DIR$/SelfSpringIOC1/target/" />
+    <ignored path="$PROJECT_DIR$/SelfSpringDI1/target/" />
+    <ignored path="$PROJECT_DIR$/SelfSpringIOC2/target/" />
+    <ignored path="$PROJECT_DIR$/SelfSpringIOC3/target/" />
+    <ignored path="$PROJECT_DIR$/SelfSpringIOC4/target/" />
+    <ignored path="$PROJECT_DIR$/SelfSpringDI4/target/" />
+    <ignored path="$PROJECT_DIR$/SelfProxy/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/BaseComposite$DItest_testStaticFactoryMethodDI.ic" NAME="DItest.testStaticFactoryMethodDI Coverage Results" MODIFIED="1563326869322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.composite.spring.samples.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="235" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>initHandlerMapping</find>
+      <find>classpath</find>
+      <find>pattern</find>
+      <find>spring-boot-starter-web</find>
+      <find>close</find>
+      <find>beanDefintionMap</find>
+      <find>staticAbean</find>
+      <find>getABean</find>
+      <find>setFactoryMethodName</find>
+      <find>CollectionUtils</find>
+      <find>containsBeanDefinitio</find>
+      <find>getConstructorArgumentValues</find>
+      <find>createInstanceByFactoryBean</find>
+      <find>yMethodNam</find>
+      <find>yMethodName</find>
+      <find>destroyMethodName</find>
+      <find>Test</find>
+      <find>initBean</find>
+      <find>toLowerCaseFirstOne</find>
+      <find>initAttribute</find>
+      <find>com.composite.ioc.service.impl</find>
+      <find>com.composite.ioc</find>
+      <find>component</find>
+      <find>self-spring-ioc</find>
+      <find>com.composite.ioc4.entity.User</find>
+      <find>com.composite.ioc4.service.UserService</find>
+      <find>lastIndexOf</find>
+      <find>getBean</find>
+      <find>singletonBeanFactory</find>
+      <find>InvocationHandler</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SelfSpringIOC2/src/main/java/com/composite/ioc/utils/ClassUtil.java" />
+        <option value="$PROJECT_DIR$/SelfSpringIOC2/src/main/java/com/composite/ioc/SpringIocTest.java" />
+        <option value="$PROJECT_DIR$/SelfSpringIOC3/pom.xml" />
+        <option value="$PROJECT_DIR$/SelfSpringIOC3/src/main/java/com/composite/ioc3/annotation/Inject.java" />
+        <option value="$PROJECT_DIR$/SelfSpringIOC3/src/main/java/com/composite/ioc3/bean/User.java" />
+        <option value="$PROJECT_DIR$/SelfSpringIOC3/src/main/java/com/composite/ioc3/service/UserService.java" />
+        <option value="$PROJECT_DIR$/SelfSpringIOC3/src/main/java/com/composite/ioc3/util/IocUtil.java" />
+        <option value="$PROJECT_DIR$/SelfSpringIOC3/src/main/java/com/composite/ioc3/context/IocContext.java" />
+        <option value="$PROJECT_DIR$/SelfSpringIOC3/src/main/java/com/composite/ioc3/UserController.java" />
+        <option value="$PROJECT_DIR$/SelfSpringIOC3/src/main/java/com/composite/ioc3/Main.java" />
+        <option value="$PROJECT_DIR$/SelfSpringIOC2/src/main/java/com/composite/ioc2/SpringIocTest.java" />
+        <option value="$PROJECT_DIR$/SelfSpringIOC3/src/main/java/com/composite/ioc3/annotation/Component.java" />
+        <option value="$PROJECT_DIR$/SelfSpringIOC4/src/main/java/com/composite/ioc4/annotation/MyComponent.java" />
+        <option value="$PROJECT_DIR$/SelfSpringIOC4/src/main/java/com/composite/ioc4/annotation/MyAutowired.java" />
+        <option value="$PROJECT_DIR$/SelfSpringIOC4/src/main/java/com/composite/ioc4/annotation/MyValue.java" />
+        <option value="$PROJECT_DIR$/SelfSpringIOC4/src/main/java/com/composite/ioc4/entity/User.java" />
+        <option value="$PROJECT_DIR$/SelfSpringIOC4/src/main/java/com/composite/ioc4/service/UserService.java" />
+        <option value="$PROJECT_DIR$/SelfSpringIOC4/pom.xml" />
+        <option value="$PROJECT_DIR$/SelfSpringIOC4/src/main/java/com/composite/ioc4/TestSpringIOC.java" />
+        <option value="$PROJECT_DIR$/SelfSpringIOC4/src/main/java/com/composite/ioc4/springTest/Test.java" />
+        <option value="$PROJECT_DIR$/SelfSpringIOC4/src/main/java/com/composite/ioc4/springTest/Test1.java" />
+        <option value="$PROJECT_DIR$/SelfSpringDI4/src/main/java/com.composite.di4/annotation/MyComponent.java" />
+        <option value="$PROJECT_DIR$/SelfSpringDI4/src/main/java/com.composite.di4/service/UserService.java" />
+        <option value="$PROJECT_DIR$/SelfSpringDI4/src/main/java/com.composite.di4/entity/User.java" />
+        <option value="$PROJECT_DIR$/SelfSpringDI4/src/main/java/com.composite.di4/applicationContext/AnnotationConfigApplicationContext.java" />
+        <option value="$PROJECT_DIR$/SelfSpringDI4/pom.xml" />
+        <option value="$PROJECT_DIR$/SelfSpringDI4/src/main/java/com.composite.di4/springTest/TestSpringIOC.java" />
+        <option value="$PROJECT_DIR$/SelfSpringIOC4/src/main/java/com/composite/ioc4/entity/SingletonUser.java" />
+        <option value="$PROJECT_DIR$/SelfSpringIOC4/src/main/java/com/composite/ioc4/entity/PrototypeUser.java" />
+        <option value="$PROJECT_DIR$/SelfSpringIOC4/src/main/java/com/composite/ioc4/applicationContext/AnnotationConfigApplicationContext.java" />
+        <option value="$PROJECT_DIR$/SelfSpringIOC4/src/main/java/com/composite/ioc4/springTest/TestSpringIOC.java" />
+        <option value="$PROJECT_DIR$/SelfProxy/src/main/java/com/composite/proxy/service/HelloServiceProxy.java" />
+        <option value="$PROJECT_DIR$/SelfProxy/src/main/java/com/composite/proxy/test/Main.java" />
+        <option value="$PROJECT_DIR$/SelfProxy/src/main/java/com/composite/proxy/proxy/HelloServiceProxy.java" />
+        <option value="$PROJECT_DIR$/SelfProxy/pom.xml" />
+        <option value="$PROJECT_DIR$/SelfProxy/src/main/java/com/composite/proxy/jdk/cglib/proxy/HelloServiceCglib.java" />
+        <option value="$PROJECT_DIR$/SelfProxy/src/main/java/com/composite/proxy/cglib/proxy/Main.java" />
+        <option value="$PROJECT_DIR$/SelfProxy/src/main/java/com/composite/proxy/jdk/service/HelloService.java" />
+        <option value="$PROJECT_DIR$/SelfProxy/src/main/java/com/composite/proxy/jdk/service/impl/HelloServiceImpl.java" />
+        <option value="$PROJECT_DIR$/SelfProxy/src/main/java/com/composite/proxy/service/impl/HelloService.java" />
+        <option value="$PROJECT_DIR$/SelfProxy/src/main/java/com/composite/proxy/jdk/service/HelloServiceImpl.java" />
+        <option value="$PROJECT_DIR$/SelfProxy/src/main/java/com/composite/proxy/HelloService.java" />
+        <option value="$PROJECT_DIR$/SelfProxy/src/main/java/com/composite/proxy/HelloServiceImpl.java" />
+        <option value="$PROJECT_DIR$/SelfProxy/src/main/java/com/composite/proxy/service/HelloServiceImpl.java" />
+        <option value="$PROJECT_DIR$/SelfProxy/src/main/java/com/composite/proxy/cglib/test/Main.java" />
+        <option value="$PROJECT_DIR$/SelfProxy/src/main/java/com/composite/proxy/jdk/test/Main.java" />
+        <option value="$PROJECT_DIR$/SelfProxy/src/main/java/com/composite/proxy/service/HelloService.java" />
+        <option value="$PROJECT_DIR$/SelfProxy/src/main/java/com/composite/proxy/service/impl/HelloServiceImpl.java" />
+        <option value="$PROJECT_DIR$/SelfProxy/src/main/java/com/composite/proxy/jdk/proxy/HelloServiceProxy.java" />
+        <option value="$PROJECT_DIR$/SelfProxy/src/main/java/com/composite/proxy/cglib/proxy/HelloServiceCglib.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/software/apache-maven-3.6.1" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="base-composite" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="base-composite" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Self-Spring-DI4" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="442" />
+    <option name="y" value="192" />
+    <option name="width" value="1629" />
+    <option name="height" value="828" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BaseComposite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BaseComposite" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563439614391" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/SelfProxy/src/main/java/com/composite/proxy/cglib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Coody-Framework" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.35517243" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.composite.proxy.service.impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/SelfSpringDI4/src/main/java/com.composite.di4" />
+      <recent name="$PROJECT_DIR$/SelfSpringDI1/src/main/java/com.composite.spring" />
+      <recent name="$PROJECT_DIR$/SelfSpringIOC1/src/main/java" />
+      <recent name="$PROJECT_DIR$/DefaultSpringMVC/src/main/webapp/WEB-INF/jsp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (3)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.composite.proxy.test.Main" />
+      <module name="SelfProxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.composite.proxy.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.composite.proxy.cglib.test.Main" />
+      <module name="SelfProxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.composite.proxy.cglib.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.composite.proxy.jdk.test.Main" />
+      <module name="SelfProxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.composite.proxy.jdk.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.composite.java.proxy.test.Main" />
+      <module name="SelfProxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.composite.java.proxy.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSpringIOC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.composite.ioc4.springTest.TestSpringIOC" />
+      <module name="SelfSpringIOC4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.composite.ioc4.springTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DefaultspringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="DefaultSpringBoot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.composite.defaultspringboot.DefaultspringbootApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelfSpringIocApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SelfSpringIOC" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.composite.self.spring.ioc.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelfSpringMVC" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.82" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="SelfSpringMVC:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/SelfSpringMVC" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_BaseComposite" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="43827" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="SelfSpringMVC:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="defaultSpringMVC" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.82" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/defaultSpringMVC/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="DefaultSpringMVC:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/defaultSpringMVC" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_BaseComposite_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="35157" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="DefaultSpringMVC:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.DefaultspringbootApplication" />
+      <item itemvalue="Tomcat Server.SelfSpringMVC" />
+      <item itemvalue="Tomcat Server.defaultSpringMVC" />
+      <item itemvalue="Spring Boot.SelfSpringIocApplication" />
+      <item itemvalue="Application.TestSpringIOC" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (3)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.TestSpringIOC" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3255580-1358-48ef-95e5-31777bd08323" name="Default Changelist" comment="" />
+      <created>1562639422985</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562639422985</updated>
+      <workItem from="1562639426345" duration="1961000" />
+      <workItem from="1562651112028" duration="26797000" />
+      <workItem from="1562996912564" duration="653000" />
+      <workItem from="1563169480401" duration="61649000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestSpringIOC - 2019.07.18 at 10h 23m 57s.xml">
+      <configuration name="TestSpringIOC" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSpringIOC_testSpringDI - 2019.07.18 at 10h 24m 52s.xml">
+      <configuration name="TestSpringIOC.testSpringDI" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSpringIOC - 2019.07.18 at 10h 25m 29s.xml">
+      <configuration name="TestSpringIOC" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSpringIOC - 2019.07.18 at 10h 35m 20s.xml">
+      <configuration name="TestSpringIOC" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSpringIOC - 2019.07.18 at 10h 38m 50s.xml">
+      <configuration name="TestSpringIOC" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSpringIOC - 2019.07.18 at 10h 39m 26s.xml">
+      <configuration name="TestSpringIOC" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSpringIOC - 2019.07.18 at 11h 40m 32s.xml">
+      <configuration name="TestSpringIOC" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSpringIOC - 2019.07.18 at 14h 11m 02s.xml">
+      <configuration name="TestSpringIOC" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSpringIOC_(1) - 2019.07.18 at 14h 22m 03s.xml">
+      <configuration name="TestSpringIOC (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSpringIOC_(1) - 2019.07.18 at 14h 22m 25s.xml">
+      <configuration name="TestSpringIOC (1)" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="91060000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7096774" visible="true" weight="0.20033205" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" sideWeight="0.29032257" side_tool="true" weight="0.17432208" />
+      <window_info anchor="bottom" id="Application Servers" order="0" weight="0.32985386" />
+      <window_info anchor="bottom" id="Spring" order="1" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" sideWeight="0.4975097" weight="0.22818792" />
+      <window_info anchor="bottom" id="Run" order="4" sideWeight="0.83287215" weight="0.3841336" />
+      <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.7399004" weight="0.480167" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="8" sideWeight="0.4991699" weight="0.32985386" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.4991699" visible="true" weight="0.32985386" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.26009962" side_tool="true" weight="0.30688936" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49529606" weight="0.34759918" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32982844" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.25290537" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Bean Validation" order="6" weight="0.32982844" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Database" order="9" weight="0.32982844" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19671094" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.32905984" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.1884883" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SelfSpringMVC/src/main/java/com/composite/core/controller/DemoController.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SelfSpringMVC/src/main/java/com/composite/core/controller/DemoController.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SelfSpringMVC/src/main/java/com/composite/servlet/SelfDispacherServlet.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SelfSpringMVC/src/main/java/com/composite/servlet/SelfDispacherServlet.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SelfSpringMVC/src/main/java/com/composite/servlet/SelfDispacherServlet.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SelfSpringMVC/src/main/java/com/composite/servlet/SelfDispacherServlet.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SelfSpringMVC/src/main/java/com/composite/servlet/SelfDispacherServlet.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SelfSpringMVC/src/main/java/com/composite/servlet/SelfDispacherServlet.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DefaultSpringBoot/src/main/java/com/composite/defaultspringboot/SaticScheduleTask.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DefaultSpringBoot/src/main/java/com/composite/defaultspringboot/SaticScheduleTask.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DefaultSpringBoot/src/main/java/com/composite/defaultspringboot/SaticScheduleTask.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SelfSpringIOC/src/main/java/com/composite/spring/beans/DefaultBeanFactory.java</url>
+          <line>148</line>
+          <properties />
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SelfSpringDI1/src/main/java/com.composite.spring/samples/DItest.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SelfSpringDI1/src/main/java/com.composite.spring/samples/DItest.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SelfSpringDI1/src/main/java/com.composite.spring/samples/DItest.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SelfSpringDI1/src/main/java/com.composite.spring/samples/DItest.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SelfSpringDI1/src/main/java/com.composite.spring/samples/DItest.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SelfSpringDI1/src/main/java/com.composite.spring/beans/PreBuildBeanFactory.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SelfSpringDI1/src/main/java/com.composite.spring/beans/DefaultBeanFactory.java</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SelfSpringDI1/src/main/java/com.composite.spring/beans/DefaultBeanFactory.java</url>
+          <line>359</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SelfSpringDI1/src/main/java/com.composite.spring/beans/DefaultBeanFactory.java</url>
+          <line>195</line>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SelfSpringIOC2/src/main/java/com/composite/ioc2/utils/ClassUtil.java</url>
+          <line>146</line>
+          <properties />
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SelfSpringIOC2/src/main/java/com/composite/ioc2/utils/ClassUtil.java</url>
+          <line>136</line>
+          <properties />
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SelfSpringIOC2/src/main/java/com/composite/ioc2/context/SpringContext.java</url>
+          <line>123</line>
+          <properties />
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SelfSpringIOC2/src/main/java/com/composite/ioc2/SpringIocTest.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SelfSpringIOC2/src/main/java/com/composite/ioc2/context/SpringContext.java</url>
+          <line>80</line>
+          <properties />
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SelfSpringIOC4/src/main/java/com/composite/ioc4/applicationContext/AnnotationConfigApplicationContext.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SelfSpringIOC4/src/main/java/com/composite/ioc4/applicationContext/AnnotationConfigApplicationContext.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SelfSpringIOC4/src/main/java/com/composite/ioc4/applicationContext/AnnotationConfigApplicationContext.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SelfSpringIOC4/src/main/java/com/composite/ioc4/applicationContext/AnnotationConfigApplicationContext.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SelfSpringIOC4/src/main/java/com/composite/ioc4/applicationContext/AnnotationConfigApplicationContext.java</url>
+          <line>96</line>
+          <properties />
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SelfSpringIOC4/src/main/java/com/composite/ioc4/applicationContext/AnnotationConfigApplicationContext.java</url>
+          <line>148</line>
+          <properties />
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SelfSpringIOC1/src/main/java/com/composite/spring/beans/PreBuildBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-288">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfSpringIOC1/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="42" selection-start-line="36" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfSpringIOC4/src/main/java/com/composite/ioc4/springTest/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="716">
+          <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfSpringIOC4/src/main/java/com/composite/ioc4/springTest/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="716">
+          <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="1284" column="18" selection-start-line="1284" selection-start-column="18" selection-end-line="1284" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.3.2/junit-platform-commons-1.3.2.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="247" selection-start-line="247" selection-end-line="247" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfSpringDI1/src/main/java/com.composite.spring/beans/BeanDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfSpringDI1/src/main/java/com.composite.spring/beans/BeanDefinitionRegistException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfSpringDI1/src/main/java/com.composite.spring/beans/BeanDefinitionRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfSpringDI1/src/main/java/com.composite.spring/beans/BeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfSpringDI1/src/main/java/com.composite.spring/beans/BeanReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfSpringDI1/src/main/java/com.composite.spring/beans/DefaultBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#registerBeanDefinition#0;class#DefaultBeanFactory#0" />
+            <element signature="method#getBean#0;class#DefaultBeanFactory#0" />
+            <element signature="method#setPropertyDIValues#0;class#DefaultBeanFactory#0" />
+            <element signature="method#determineConstructor#0;class#DefaultBeanFactory#0" />
+            <element signature="method#determineFactoryMethod#0;class#DefaultBeanFactory#0" />
+            <element signature="method#createInstanceByFactoryBean#0;class#DefaultBeanFactory#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfSpringDI1/src/main/java/com.composite.spring/beans/GenericBeanDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1496#1497#0" expanded="true" />
+            <element signature="e#1554#1555#0" expanded="true" />
+            <element signature="e#1772#1773#0" expanded="true" />
+            <element signature="e#1844#1845#0" expanded="true" />
+            <element signature="e#2223#2224#0" expanded="true" />
+            <element signature="e#2265#2266#0" expanded="true" />
+            <element signature="e#2322#2323#0" expanded="true" />
+            <element signature="e#2367#2368#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfSpringDI1/src/main/java/com.composite.spring/beans/PreBuildBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfSpringDI1/src/main/java/com.composite.spring/beans/PropertyValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfSpringDI4/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfSpringIOC4/src/main/java/com/composite/ioc4/annotation/MyAutowired.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfSpringIOC4/src/main/java/com/composite/ioc4/annotation/MyComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfSpringIOC4/src/main/java/com/composite/ioc4/annotation/MyValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfSpringIOC4/src/main/java/com/composite/ioc4/entity/PrototypeUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+            <element signature="e#693#694#0" expanded="true" />
+            <element signature="e#724#725#0" expanded="true" />
+            <element signature="e#772#773#0" expanded="true" />
+            <element signature="e#812#813#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfSpringIOC4/src/main/java/com/composite/ioc4/entity/SingletonUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-456">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+            <element signature="e#677#678#0" expanded="true" />
+            <element signature="e#717#718#0" expanded="true" />
+            <element signature="e#749#750#0" expanded="true" />
+            <element signature="e#784#785#0" expanded="true" />
+            <element signature="e#815#816#0" expanded="true" />
+            <element signature="e#863#864#0" expanded="true" />
+            <element signature="e#903#904#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfSpringIOC4/src/main/java/com/composite/ioc4/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfSpringIOC4/src/main/java/com/composite/ioc4/applicationContext/AnnotationConfigApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getBean#0;class#AnnotationConfigApplicationContext#0" />
+            <element signature="method#setFieldValues#0;class#AnnotationConfigApplicationContext#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfSpringIOC4/src/main/java/com/composite/ioc4/springTest/TestSpringIOC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfSpringDI4/src/main/java/com.composite.di4/annotation/MyAutowired.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfSpringDI4/src/main/java/com.composite.di4/annotation/MyComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfSpringDI4/src/main/java/com.composite.di4/annotation/MyValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfSpringDI4/src/main/java/com.composite.di4/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfSpringDI4/src/main/java/com.composite.di4/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfSpringDI4/src/main/java/com.composite.di4/springTest/TestSpringIOC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="569">
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfSpringDI4/src/main/java/com.composite.di4/applicationContext/AnnotationConfigApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="176" column="40" selection-start-line="176" selection-start-column="35" selection-end-line="176" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfSpringMVC/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfSpringIOC4/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="28" selection-start-line="22" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfProxy/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfProxy/src/main/java/com/composite/proxy/service/impl/HelloService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfProxy/src/main/java/com/composite/proxy/jdk/service/HelloServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding>
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfProxy/src/main/java/com/composite/proxy/jdk/service/HelloServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfProxy/src/main/java/com/composite/proxy/jdk/service/HelloService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfProxy/src/main/java/com/composite/proxy/service/HelloService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfProxy/src/main/java/com/composite/proxy/jdk/proxy/HelloServiceProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfProxy/src/main/java/com/composite/proxy/service/impl/HelloServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <folding>
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfProxy/src/main/java/com/composite/proxy/jdk/test/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="58" lean-forward="true" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfProxy/src/main/java/com/composite/proxy/cglib/proxy/HelloServiceCglib.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-223">
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelfProxy/src/main/java/com/composite/proxy/cglib/test/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseComposite.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DefaultSpringBoot/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DefaultSpringBoot/src/main/java/com/composite/defaultspringboot/DefaultspringbootApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DefaultSpringBoot/src/main/java/com/composite/defaultspringboot/SaticScheduleTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DefaultSpringBoot/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DefaultSpringMVC/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>SelfSpringIOC:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35517243" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35517243" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35517243" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35517243" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>DefaultSpringMVC</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35517243" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Spring MVC-4.3.18.RELEASE</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35517243" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://java.sun.com/xml/ns/j2ee/web-app_3_1.xsd"
+         version="3.1">
+    <!--
+    web.xml的加载顺序是: <context-param> -> <listener> -> <filter> -> <servlet>
+    启动WEB项目时，
+    1.容器(tomcat)读取web.xml配置文件中的两个节点：<context-param>和<listener>。
+    2.容器创建一个ServletContext，web项目的所有部分都将共享这个上下文。容器以<context-param>的name作为键，value作为值，将其转化为键值对，存入ServletContext。
+    3.容器创建<listener>中的类实例，根据配置的class类路径<listener-class>来创建监听，启动Web应用时，系统调用Listener的初始化方法contextInitialized(ServletContextEvent args)。
+    4.容器会读取<filter>，根据指定的类路径来实例化过滤器。
+    以上都是在WEB项目还没有完全启动起来的时候就已经完成了的工作。
+    如果系统中有Servlet，Servlet在第一次发起请求时被实例化的，而且一般不会被容器销毁，可以服务于多个用户的请求。
+    -->
+    <!--
+    classpath和classpath*区别：
+    classpath：只会到你的class路径中查找找文件。
+    classpath*：不仅包含class路径，还包括jar文件中（class路径）进行查找。
+    当项目中有多个classpath路径时，classpath*会同时加载多个classpath路径下的文件；classpath仅仅加载第一个classpath路径。
+    -->
+    <!--作用:启动web容器，自动装配applicationContext.xml配置信息-->
+    <listener>
+        <listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
+    </listener>
+
+    <!--如果不写任何参数配置，默认的是在/WEB-INF/applicationContext.xml-->
+    <context-param>
+        <param-name>contextConfigLocation</param-name>
+        <param-value>/WEB-INF/applicationContext.xml</param-value>
+    </context-param>
+
+    <welcome-file-list>
+        <welcome-file>index.jsp</welcome-file>
+    </welcome-file-list>
+
+    <servlet>
+        <servlet-name>DefaultSpringMVC</servlet-name>
+        <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
+        <!--配置dispatcher-servlet.xml作为mvc的配置文件,默认查找MVC配置文件的地址是：/WEB-INF/${servletName}-servlet.xml-->
+        <init-param>
+            <param-name>contextConfigLocation</param-name>
+            <param-value>/WEB-INF/dispatcher-servlet.xml</param-value>
+        </init-param>
+        <!--配置web应用启动时立即创建Servlet实例-->
+        <load-on-startup>1</load-on-startup>
+        <async-supported>true</async-supported>
+    </servlet>
+
+    <servlet-mapping>
+        <!-- 设置http请求拦截，如*.do，这里设置的是拦截所有 -->
+        <servlet-name>DefaultSpringMVC</servlet-name>
+        <!--
+        /会匹配到/login这样的路径型url，不会匹配到模式为*.jsp这样的后缀型url
+        /*会匹配所有url：路径型的和后缀型的url(包括/login,*.jsp,*.js和*.html等)-->
+        <url-pattern>/</url-pattern>
+    </servlet-mapping>
+
+</web-app>

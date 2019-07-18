@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="DefaultSpringMVC" />
+        <module name="SelfProxy" />
+        <module name="SelfSpringDI4" />
+        <module name="SelfSpringIOC2" />
+        <module name="SelfSpringIOC3" />
+        <module name="SelfSpringIOC4" />
+        <module name="SelfSpringMVC" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="DefaultSpringBoot" target="1.8" />
+      <module name="SelfSpringDI1" target="1.8" />
+      <module name="SelfSpringIOC" target="1.8" />
+      <module name="SelfSpringIOC1" target="1.8" />
+      <module name="SelfSpringMvc" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="DefaultSpringBoot" options="-parameters" />
+      <module name="SelfSpringIOC" options="" />
+    </option>
+  </component>
+</project>

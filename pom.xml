@@ -15,6 +15,7 @@
         <module>SelfSpringIOC4</module>
         <module>SelfSpringDI4</module>
         <module>SelfProxy</module>
+        <module>SelfMybatis</module>
     </modules>
     <packaging>pom</packaging>
 

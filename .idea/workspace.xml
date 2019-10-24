@@ -6,25 +6,15 @@
     </artifacts-to-build>
   </component>
   <component name="BookmarkManager">
-    <bookmark url="file://$USER_HOME$/workspace/project-sdk1-java/src/main/java/com/ay/custom/service/ksxt/FaBuService.java" description="List&lt;Map&lt;String, String&gt;&gt; selectPeiXunXinXiList(Ma..." line="20" />
-    <bookmark url="file://$USER_HOME$/workspace/project-sdk1-java/src/main/java/com/ay/custom/service/ksxt/ExamAdminService.java" description="Map checkPermission(String userType, String userId..." line="13" />
+    <bookmark url="file://$USER_HOME$/workspace/SDK2.0/business/src/main/java/com/qycloud/SDK/business/rpcImpl/UserBusinessImpl.java" description="public RPCResponse getEntUserByParentId(String ent..." line="130" />
+    <bookmark url="file://$USER_HOME$/workspace/SDK2.0/interfaces/src/main/java/com/qycloud/SDK/interfaces/business/IUserBusinessMock.java" description="public RPCResponse selectSysEntUserByParentId(Stri..." line="40" />
+    <bookmark url="file://$USER_HOME$/workspace/SDK2.0/server/src/main/java/com/qycloud/SDK/server/service/IOrgServerService.java" description="String selectOrgTreeShapeByParentId(@NotBlank Stri..." line="24" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3255580-1358-48ef-95e5-31777bd08323" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/generic/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/generic/genericFunction/StaticFans.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/generic/genericInterface/InfoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/generic/genericInterface/InfoImplInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/generic/genericInterface/InfoImplInterfaceMore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/lambda/LambdaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/ram/HeapOOM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/ram/JavaVMStackSOF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SelfMybatis/src/main/java/com/composite/mybatis/configuration/MyConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SelfMybatis/src/main/java/com/composite/mybatis/session/MySqlSession.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/stream/CreateStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/stream/ForkJoinSumCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -75,40 +65,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/ram/HeapOOM.java">
+        <entry file="file://$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/stream/CreateStream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+            <state relative-caret-position="589">
+              <caret line="51" selection-start-line="51" selection-end-line="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/ram/JavaVMStackSOF.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/ram/JavaVMStackOOM.java">
+        <entry file="file://$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/stream/StreamApi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/ram/RuntimeConstantPoolOOM.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="263">
+              <caret line="204" column="22" selection-start-line="204" selection-start-column="22" selection-end-line="204" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -117,43 +89,23 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/ram/JavaMethodAreaOOM.java">
+        <entry file="file://$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/stream/ForkJoinSumCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+            <state>
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#507#508#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/ram/DirectMemoryOOM.java">
+        <entry file="file://$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/src.zip!/java/util/Arrays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75312">
-              <caret line="3209" selection-start-line="3209" selection-end-line="3209" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/src.zip!/java/util/ArrayList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10152">
-              <caret line="461" selection-start-line="461" selection-end-line="461" />
+            <state relative-caret-position="96">
+              <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -213,11 +165,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SelfMybatis/src/main/java/com/composite/mybatis/configuration/MyDataSource.java" />
-        <option value="$PROJECT_DIR$/SelfMybatis/src/main/java/com/composite/mybatis/mapper/MapperRegistory.java" />
-        <option value="$PROJECT_DIR$/SelfMybatis/src/main/java/com/composite/mybatis/mapper/MapperData.java" />
-        <option value="$PROJECT_DIR$/SelfMybatis/src/main/java/com/composite/mybatis/executor/MyExecutor.java" />
-        <option value="$PROJECT_DIR$/SelfMybatis/src/main/java/com/composite/mybatis/executor/ExecutorType.java" />
         <option value="$PROJECT_DIR$/SelfMybatis/src/main/java/com/composite/mybatis/mapper/MyMapperProxy.java" />
         <option value="$PROJECT_DIR$/SelfMybatis/src/main/java/com/composite/mybatis/session/MySqlSessionFactory.java" />
         <option value="$PROJECT_DIR$/SelfMybatis/src/main/java/com/composite/mybatis/session/MySqlSessionFactoryBuilder.java" />
@@ -264,6 +211,11 @@
         <option value="$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/ram/RuntimeConstantPoolOOM.java" />
         <option value="$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/ram/JavaMethodAreaOOM.java" />
         <option value="$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/ram/DirectMemoryOOM.java" />
+        <option value="$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/Test.java" />
+        <option value="$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/stream/CreateStream.java" />
+        <option value="$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/stream/Dish.java" />
+        <option value="$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/stream/ForkJoinSumCalculator.java" />
+        <option value="$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/stream/StreamApi.java" />
       </list>
     </option>
   </component>
@@ -316,10 +268,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="246" />
-    <option name="y" value="513" />
-    <option name="width" value="1629" />
-    <option name="height" value="830" />
+    <option name="x" value="65" />
+    <option name="y" value="515" />
+    <option name="width" value="1893" />
+    <option name="height" value="845" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -327,7 +279,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -336,10 +287,67 @@
               <item name="BaseComposite" type="b2602c69:ProjectViewProjectNode" />
               <item name="BaseComposite" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="BaseComposite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BaseComposite" type="462c0819:PsiDirectoryNode" />
+              <item name="DefaultSpringMVC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BaseComposite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BaseComposite" type="462c0819:PsiDirectoryNode" />
+              <item name="DefaultSpringMVC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BaseComposite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BaseComposite" type="462c0819:PsiDirectoryNode" />
+              <item name="DefaultSpringMVC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BaseComposite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BaseComposite" type="462c0819:PsiDirectoryNode" />
+              <item name="DefaultSpringMVC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BaseComposite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BaseComposite" type="462c0819:PsiDirectoryNode" />
+              <item name="DefaultSpringMVC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="composite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BaseComposite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BaseComposite" type="462c0819:PsiDirectoryNode" />
+              <item name="DefaultSpringMVC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="composite" type="462c0819:PsiDirectoryNode" />
+              <item name="other" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BaseComposite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BaseComposite" type="462c0819:PsiDirectoryNode" />
+              <item name="DefaultSpringMVC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="composite" type="462c0819:PsiDirectoryNode" />
+              <item name="other" type="462c0819:PsiDirectoryNode" />
+              <item name="stream" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -349,9 +357,9 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564046362591" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571901540556" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other" />
-    <property name="last_opened_file_path" value="$USER_HOME$/workspace/SDK_Client_Base" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -382,7 +390,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DirectMemoryOOM">
+  <component name="RunManager" selected="Application.StreamApi">
+    <configuration name="CreateStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.composite.other.stream.CreateStream" />
+      <module name="DefaultSpringMVC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.composite.other.stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DirectMemoryOOM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.composite.other.ram.DirectMemoryOOM" />
       <module name="DefaultSpringMVC" />
@@ -411,34 +432,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaVMStackOOM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.composite.other.ram.JavaVMStackOOM" />
-      <module name="DefaultSpringMVC" />
-      <option name="VM_PARAMETERS" value="-Xss2M" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.composite.other.ram.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JavaVMStackSOF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.composite.other.ram.JavaVMStackSOF" />
-      <module name="DefaultSpringMVC" />
-      <option name="VM_PARAMETERS" value="-Xss228k" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.composite.other.ram.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="RuntimeConstantPoolOOM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.composite.other.ram.RuntimeConstantPoolOOM" />
       <module name="DefaultSpringMVC" />
@@ -446,6 +439,32 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.composite.other.ram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamApi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.composite.other.stream.StreamApi" />
+      <module name="DefaultSpringMVC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.composite.other.stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.composite.other.Test" />
+      <module name="DefaultSpringMVC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.composite.other.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -600,19 +619,21 @@
     </configuration>
     <list>
       <item itemvalue="Application.HeapOOM" />
-      <item itemvalue="Application.JavaVMStackSOF" />
-      <item itemvalue="Application.JavaVMStackOOM" />
-      <item itemvalue="Application.RuntimeConstantPoolOOM" />
       <item itemvalue="Application.DirectMemoryOOM" />
+      <item itemvalue="Application.RuntimeConstantPoolOOM" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.CreateStream" />
+      <item itemvalue="Application.StreamApi" />
       <item itemvalue="Tomcat Server.SelfSpringMVC" />
       <item itemvalue="Tomcat Server.defaultSpringMVC" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StreamApi" />
+        <item itemvalue="Application.CreateStream" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.DirectMemoryOOM" />
         <item itemvalue="Application.RuntimeConstantPoolOOM" />
-        <item itemvalue="Application.JavaVMStackOOM" />
-        <item itemvalue="Application.JavaVMStackSOF" />
       </list>
     </recent_temporary>
   </component>
@@ -633,7 +654,11 @@
       <workItem from="1563517905595" duration="5252000" />
       <workItem from="1563758257312" duration="16619000" />
       <workItem from="1563880494528" duration="12753000" />
-      <workItem from="1564047169960" duration="633000" />
+      <workItem from="1564047169960" duration="4202000" />
+      <workItem from="1564364052360" duration="8378000" />
+      <workItem from="1570778568078" duration="3945000" />
+      <workItem from="1571299307755" duration="10168000" />
+      <workItem from="1571899645648" duration="1834000" />
     </task>
     <servers />
   </component>
@@ -670,7 +695,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="138683000" />
+    <option name="totallyTimeSpent" value="166577000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -682,9 +707,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <frame x="65" y="515" width="1893" height="845" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7096774" visible="true" weight="0.2717211" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7096774" visible="true" weight="0.14850949" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -697,11 +723,11 @@
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Find" order="3" sideWeight="0.4975097" weight="0.22803347" />
       <window_info anchor="bottom" id="Run" order="4" sideWeight="0.83287215" weight="0.49895397" />
-      <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.7399004" weight="0.54811716" />
+      <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.7399004" weight="0.52440727" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="8" sideWeight="0.4991699" weight="0.32985386" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.4991699" visible="true" weight="0.7050209" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4991699" weight="0.1495816" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.26009962" side_tool="true" weight="0.30688936" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49529606" weight="0.11228813" />
@@ -711,7 +737,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" sideWeight="0.49748743" visible="true" weight="0.18262313" />
+      <window_info anchor="right" id="Maven" order="3" sideWeight="0.49748743" visible="true" weight="0.17886178" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Bean Validation" order="6" weight="0.32982844" />
@@ -976,15 +1002,34 @@
           <properties />
           <option name="timeStamp" value="115" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/Test.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/stream/CreateStream.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/stream/CreateStream.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/stream/CreateStream.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SelfMybatis/src/main/java/com/composite/mybatis/parameter/ParameterHandler.java" />
-    <entry file="file://$PROJECT_DIR$/SelfMybatis/src/main/java/com/composite/mybatis/plugin/MyInterceptor.java" />
-    <entry file="file://$PROJECT_DIR$/SelfMybatis/src/main/java/com/composite/mybatis/plugin/MyInterceptorChain.java" />
-    <entry file="file://$PROJECT_DIR$/SelfMybatis/src/main/java/com/composite/mybatis/plugin/MyInvocation.java" />
-    <entry file="file://$PROJECT_DIR$/SelfMybatis/src/main/java/com/composite/mybatis/plugin/MyPlugin.java" />
     <entry file="file://$PROJECT_DIR$/SelfMybatis/src/main/java/com/composite/mybatis/typehandler/MyTypeHandlerRegistory.java" />
     <entry file="file://$PROJECT_DIR$/SelfMybatis/src/main/java/com/composite/mybatis/typehandler/MyTypeHandler.java" />
     <entry file="file://$PROJECT_DIR$/SelfMybatis/pom.xml">
@@ -1212,17 +1257,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/lambda/LambdaTest.java">
+    <entry file="file://$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/generic/genericInterface/Info.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="40" column="21" lean-forward="true" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+        <state relative-caret-position="96">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="3139" column="4" selection-start-line="3139" selection-start-column="4" selection-end-line="3139" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75312">
+          <caret line="3209" selection-start-line="3209" selection-end-line="3209" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10152">
+          <caret line="461" selection-start-line="461" selection-end-line="461" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/ram/JavaMethodAreaOOM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#707#708#0" expanded="true" />
-            <element signature="e#773#774#0" expanded="true" />
-            <element signature="e#1090#1091#0" expanded="true" />
-            <element signature="e#1156#1157#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -1254,41 +1337,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/generic/genericInterface/Info.java">
+    <entry file="file://$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/lambda/LambdaTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/controller/IndexController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="3139" column="4" selection-start-line="3139" selection-start-column="4" selection-end-line="3139" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75312">
-          <caret line="3209" selection-start-line="3209" selection-end-line="3209" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10152">
-          <caret line="461" selection-start-line="461" selection-end-line="461" />
+        <state relative-caret-position="-900">
+          <caret line="62" column="24" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1296,6 +1351,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/ram/JavaVMStackOOM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/ram/JavaVMStackSOF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/ram/RuntimeConstantPoolOOM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1312,37 +1391,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/ram/JavaMethodAreaOOM.java">
+    <entry file="file://$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/stream/CreateStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+        <state relative-caret-position="589">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/ram/RuntimeConstantPoolOOM.java">
+    <entry file="file://$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/stream/Dish.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="120">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#677#678#0" expanded="true" />
+            <element signature="e#708#709#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/ram/JavaVMStackSOF.java">
+    <entry file="file://$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/stream/ForkJoinSumCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        <state>
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/ram/JavaVMStackOOM.java">
+    <entry file="file://$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        <state relative-caret-position="96">
+          <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DefaultSpringMVC/src/main/java/com/composite/other/stream/StreamApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="204" column="22" selection-start-line="204" selection-start-column="22" selection-end-line="204" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
